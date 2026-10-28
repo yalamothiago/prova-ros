@@ -1,0 +1,5 @@
+# Requisição: profundidade da coleta
+float64 profundidade
+---
+# Resposta: se a coleta foi bem sucedida
+bool sucesso

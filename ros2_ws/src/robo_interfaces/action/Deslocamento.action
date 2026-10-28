@@ -1,0 +1,12 @@
+# Meta: localização de destino e velocidades (unidades por segundo)
+float64 latitude
+float64 longitude
+float64 velocidade_latitude
+float64 velocidade_longitude
+---
+# Resultado: distância total percorrida
+float64 distancia_percorrida
+---
+# Feedback: localização atual do robô
+float64 latitude_atual
+float64 longitude_atual
